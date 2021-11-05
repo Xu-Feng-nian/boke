@@ -1,0 +1,79 @@
+{
+  "id": "2697400",
+  "name": "meituan",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "7550301",
+      "name": "数字",
+      "font_class": "shuzi",
+      "unicode": "e653",
+      "unicode_decimal": 58963
+    },
+    {
+      "icon_id": "23457694",
+      "name": "CaretCircleRight",
+      "font_class": "CaretCircleRight",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "23457702",
+      "name": "CaretLeft",
+      "font_class": "CaretLeft",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "23457705",
+      "name": "CaretRight",
+      "font_class": "CaretRight",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "23457708",
+      "name": "CaretDown",
+      "font_class": "CaretDown",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "23457709",
+      "name": "CaretUp",
+      "font_class": "CaretUp",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "9642902",
+      "name": "定位",
+      "font_class": "dingwei",
+      "unicode": "e64d",
+      "unicode_decimal": 58957
+    },
+    {
+      "icon_id": "14445364",
+      "name": "锁",
+      "font_class": "suo",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    },
+    {
+      "icon_id": "21914685",
+      "name": "手机",
+      "font_class": "shouji",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "21914686",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    }
+  ]
+}
